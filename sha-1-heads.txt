@@ -7,4 +7,4 @@ Python : HEAD SHA-1 checksum
 Kotlin : HEAD SHA-1 checksum
 Go : HEAD SHA-1 checksum
 PHP : HEAD SHA-1 checksum
-Ruby : HEAD SHA-1 checksum
+Ruby : HEAD SHA-1 checksum 
